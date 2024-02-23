@@ -33,7 +33,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🚀Languages🚀</h3></summary>
+    <summary><h3 style="display: inline-block">🚀* *Languages* *🚀</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -68,8 +68,6 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,svelte&perline=11" />
 </a>
 </p>
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <!--h1 without bottom border-->

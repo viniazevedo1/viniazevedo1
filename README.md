@@ -39,7 +39,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,cpp,js,c,java,php,docker,netlify,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,cpp,js,c,java,php,docker,netlify/>
 </a>
 </p>
 <!--h1 without bottom border-->

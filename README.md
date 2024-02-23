@@ -33,7 +33,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🚀Languages🚀</h3></summary>
+    <summary><h3 style="display: inline-block">🤖Languages🤖</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -45,7 +45,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">📡Front-End📡</h3></summary>
+    <summary><h3 style="display: inline-block">🔋Front-end🔋</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -59,7 +59,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">🔌Back-End🔌</h3></summary>
+    <summary><h3 style="display: inline-block">⚙️Back-end⚙️</h3></summary>
   </ul>
 </div>
 <!--tech stack icons-->

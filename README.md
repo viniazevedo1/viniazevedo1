@@ -51,7 +51,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,nextjs,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=css,html,react,bootstrap,nextjs&perline=11" />
 </a>
 </p>
 <!--x axis divider-->
@@ -65,7 +65,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&perline=11" />
 </a>
 </p>
 <!--x axis divider-->
@@ -79,7 +79,7 @@ With expertise in full-stack development, DevOps, and design, I thrive on challe
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ae,ai,ps,blender,unreal,unity,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=ae,ai,ps,blender,unreal,unity&perline=11" />
 </a>
 </p>
 <!--x axis divider-->

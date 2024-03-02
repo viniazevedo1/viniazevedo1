@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/images/horizontal-divider-gradient.gif">
+  <img src="/assets/images/371697.png">
 </div>
 
 

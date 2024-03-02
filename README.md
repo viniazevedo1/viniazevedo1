@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="/assets/images/371697.png">
+  <img src="caminho/para/371697.png" alt="Sua imagem">
 </div>
-
 
 ```js
 "use creativity";

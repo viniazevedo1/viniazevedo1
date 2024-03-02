@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="caminho/para/371697.png" alt="Sua imagem">
-</div>
+![Sua imagem](371697.png)
+
 
 ```js
 "use creativity";

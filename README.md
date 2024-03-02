@@ -1,5 +1,6 @@
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<div align="center">
+  <img src="/assets/images/horizontal-divider-gradient.gif">
+</div>
 
 
 ```js
@@ -10,7 +11,7 @@ new Person({
     name   : 'Vinícius Azevedo de Souza Fonseca',
     title  : 'Full Stack Developer | DevOps Engineer | UI/UX Design',
     email  : 'vinicius.souza.fonseca1@gmail.com',
-    website: 'https://vinicius-azevedo.netlify.app',
+    website: 'vinicius-azevedo-dev.netlify.app',
     married: !!!false,
 }).sayHello();
 ```

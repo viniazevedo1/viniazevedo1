@@ -16,8 +16,7 @@ new Person({
 
 ```cmd
 C:\ViniciusAzevedo> node index.js
-I'm a tech professional with a passion for merging technology and design to create innovative solutions.
-With expertise in full-stack development, DevOps, and design, I thrive on challenges that demand both technical proficiency and creative flair.
+👨🏻‍🎓 System Analysis in Anhanguera - 🗺 São Paulo, Brazil.
 
 
 ```
